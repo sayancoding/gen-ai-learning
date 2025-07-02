@@ -1,0 +1,9 @@
+python_dotenv
+langchain-google-genai
+langchain
+langchain-community 
+langchainhub
+bs4
+protobuf==6.31.1
+faiss-cpu
+pyPdf
